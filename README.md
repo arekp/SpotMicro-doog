@@ -29,4 +29,7 @@ na linux instalujemy
 sudo apt install ros-humble-desktop
 sudo apt install ros-dev-tools
 
+## Podpiecia elektronika
+schemat polaczen[https://gitlab.com/public-open-source/spotmicroai/electronics](Schemat poalczen)
+
 
