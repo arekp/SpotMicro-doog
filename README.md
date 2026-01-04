@@ -31,5 +31,6 @@ sudo apt install ros-dev-tools
 
 ## Podpiecia elektronika
 schemat polaczen[https://gitlab.com/public-open-source/spotmicroai/electronics](Schemat poalczen)
+Filmy: [https://www.youtube.com/playlist?list=PLp5v7U2tXHs3BYfe93GZwuUZLGsisapic](film)
 
 
