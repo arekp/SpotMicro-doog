@@ -1,1 +1,22 @@
 # SpotMicro-doog
+instalacja raspery pi 4 
+ubuntu 22.04 server
+### Dodanie swap
+# 1. Tworzenie pliku (2GB)
+sudo fallocate -l 2G /swapfile
+
+# 2. Nadanie uprawnień
+sudo chmod 600 /swapfile
+
+# 3. Formatowanie jako SWAP
+sudo mkswap /swapfile
+
+# 4. Włączenie pliku
+sudo swapon /swapfile
+
+# 5. Automatyczny start po restarcie (dodanie wpisu do fstab)
+echo '/swapfile none swap sw 0 0' | sudo tee -a /etc/fstab
+
+# 6. Weryfikacja
+free -h
+
