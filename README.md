@@ -22,3 +22,11 @@ free -h
 
 # Instalacja ROS2 
 na podstawie strony [https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debs.html](instalacja)
+w raperypi 4 instalujemy tylko
+sudo apt install ros-humble-ros-base
+
+na linux instalujemy
+sudo apt install ros-humble-desktop
+sudo apt install ros-dev-tools
+
+
