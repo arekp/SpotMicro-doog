@@ -1,4 +1,6 @@
 # SpotMicro-doog
+## 3D print model
+Model 3d print dodruku [https://www.thingiverse.com/thing:3445283](model 3D print)
 instalacja raspery pi 4 
 ubuntu 22.04 server
 ### Dodanie swap
