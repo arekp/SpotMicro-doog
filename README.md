@@ -20,3 +20,5 @@ echo '/swapfile none swap sw 0 0' | sudo tee -a /etc/fstab
 # 6. Weryfikacja
 free -h
 
+# Instalacja ROS2 
+na podstawie strony [https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debs.html](instalacja)
