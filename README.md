@@ -33,8 +33,8 @@ sudo apt install ros-dev-tools
 
 ## Podpiecia elektronika
 schemat polaczen[https://gitlab.com/public-open-source/spotmicroai/electronics](Schemat poalczen)
-Filmy: [https://www.youtube.com/playlist?list=PLp5v7U2tXHs3BYfe93GZwuUZLGsisapic](film)
+Filmy: (https://www.youtube.com/playlist?list=PLp5v7U2tXHs3BYfe93GZwuUZLGsisapic)[film]
 
 
 # Przydatne linki do nauki 
-- Odczyt czujnika ultradźwiękowego na Raspberry Pi przy użyciu ROS2, wyświetlanie danych w oknie GUI [https://samueladesola.medium.com/read-ultrasonic-sensor-on-raspberry-pi-using-ros2-display-the-data-on-a-qt-gui-window-48099271720c]
+- Odczyt czujnika ultradźwiękowego na Raspberry Pi przy użyciu ROS2, wyświetlanie danych w oknie GUI (https://samueladesola.medium.com/read-ultrasonic-sensor-on-raspberry-pi-using-ros2-display-the-data-on-a-qt-gui-window-48099271720c)[link]
