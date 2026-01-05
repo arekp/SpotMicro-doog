@@ -23,7 +23,7 @@ echo '/swapfile none swap sw 0 0' | sudo tee -a /etc/fstab
 free -h
 
 # Instalacja ROS2 
-na podstawie strony [https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debs.html](instalacja)
+na podstawie strony: https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debs.html
 w raperypi 4 instalujemy tylko
 sudo apt install ros-humble-ros-base
 
@@ -32,8 +32,8 @@ sudo apt install ros-humble-desktop
 sudo apt install ros-dev-tools
 
 ## Podpiecia elektronika
-schemat polaczen[https://gitlab.com/public-open-source/spotmicroai/electronics](Schemat poalczen)
-Filmy: (https://www.youtube.com/playlist?list=PLp5v7U2tXHs3BYfe93GZwuUZLGsisapic)[film]
+schemat polaczen: https://gitlab.com/public-open-source/spotmicroai/electronics
+Filmy: https://www.youtube.com/playlist?list=PLp5v7U2tXHs3BYfe93GZwuUZLGsisapic
 
 
 # Przydatne linki do nauki 
